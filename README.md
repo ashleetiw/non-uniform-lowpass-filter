@@ -13,13 +13,16 @@ All pixels which lie in the same circles have same filter being applied
 
 
 The relation between the size of the low pass filter applied to a pixel and it't radial distance is following
-![rr](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/rr.png)
+![rr](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/rr.png){: width="600"}
+the function F is determined using an algorithm
+![final](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/final.gif)
         
     
 ####   Kernel_size=F(radial_distance)
 
-the function F is determined using an algorithm
-![final](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/final.gif)
+![pp](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/pattern.png)
+
+
 
 
 I used the non-uniform filter(pattern) to project on the eye. 
