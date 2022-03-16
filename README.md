@@ -12,7 +12,7 @@ All pixels which lie in the same circles have same filter being applied
 
 
 The relation between the size of the low pass filter applied to a pixel and it't radjial distance is following
-![rr](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/rr.png){: width="600"}
+![rr](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/rr.png)
 
 *https://www.researchgate.net/figure/When-computing-a-subpixel-Gaussian-the-continuous-distance-between-Gaussian-center-and_fig1_221415389*
 
