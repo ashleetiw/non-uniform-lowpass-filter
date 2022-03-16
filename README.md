@@ -11,9 +11,11 @@ This image shows the how the convolution is applied radially.Note that the color
 All pixels which lie in the same circles have same filter being applied 
 
 
-
-The relation between the size of the low pass filter applied to a pixel and it't radial distance is following
+The relation between the size of the low pass filter applied to a pixel and it't radjial distance is following
 ![rr](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/rr.png){: width="600"}
+
+*https://www.researchgate.net/figure/When-computing-a-subpixel-Gaussian-the-continuous-distance-between-Gaussian-center-and_fig1_221415389*
+
 the function F is determined using an algorithm
 ![final](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/final.gif)
         
@@ -23,10 +25,14 @@ the function F is determined using an algorithm
 ![pp](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/pattern.png)
 
 
-
-
-I used the non-uniform filter(pattern) to project on the eye. 
+I used the non-uniform filter(pattern) to project on the eye
 ![eye](https://github.com/ashleetiw/non-uniform-lowpass-filter/blob/main/my-eye.png)
+
+
+## References
+
+1:[https://www.sciencedirect.com/science/article/abs/pii/S0143816618300599](https://www.sciencedirect.com/science/article/abs/pii/S0143816618300599)
+2:[https://3dim.northwestern.edu/JWang_COSI_2021.pdf](https://3dim.northwestern.edu/JWang_COSI_2021.pdf)
 
 
 
